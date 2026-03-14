@@ -1,0 +1,4 @@
+interface:
+  display_name: "导入 Claude 技能"
+  short_description: "把 Claude Code 技能仓库安全改造成 Codex 技能。"
+  default_prompt: "使用 $import-claude-skills 检查一个 Claude Code 技能仓库，并把兼容技能导入到 Codex。"

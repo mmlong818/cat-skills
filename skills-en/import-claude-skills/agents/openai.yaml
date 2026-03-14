@@ -1,0 +1,4 @@
+interface:
+  display_name: "Import Claude Skills"
+  short_description: "Port skills from Claude Code repos into Codex safely."
+  default_prompt: "Use $import-claude-skills to inspect a Claude Code skills repo and import the compatible skills into Codex."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Requirement Discovery"
+  short_description: "Guide multi-round requirement clarification and value testing."
+  default_prompt: "Use $requirement-discovery to turn a vague idea or unclear request into a clear requirement, goal, and next-step plan."

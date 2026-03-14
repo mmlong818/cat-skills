@@ -1,0 +1,4 @@
+interface:
+  display_name: "需求识别"
+  short_description: "通过多轮对话澄清需求、验证价值并收敛范围。"
+  default_prompt: "使用 $requirement-discovery 把一个模糊想法或不清楚的请求整理成清晰的需求、目标和下一步计划。"

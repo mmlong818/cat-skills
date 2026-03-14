@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skillforge Generator"
+  short_description: "Create or refine reusable Codex skills step by step."
+  default_prompt: "Use $skillforge-generator to turn a user need or source workflow into a clear, reusable Codex skill."

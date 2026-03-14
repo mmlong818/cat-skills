@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skillforge 生成器"
+  short_description: "按步骤创建或改造可复用的 Codex 技能。"
+  default_prompt: "使用 $skillforge-generator 把一个用户需求或现有工作流整理成清晰、可复用的 Codex 技能。"
